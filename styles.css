@@ -14,10 +14,12 @@
       video {
         background-color: rgb(red, green, blue);
         border-radius: 10px;
+		  width:100%;
       }
       audio {
         background-color: rgb(red, green, blue);
         border-radius: 10px;
+		  width:100%
       }
       h2 {
         text-align: center;
