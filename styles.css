@@ -5,8 +5,9 @@
       li {
         list-style-type: none;
       }
-      a {
+      .a {
         text-decoration-line: none;
+		  border:1px solid black;
       }
       h1 {
         text-align: center;
@@ -32,12 +33,14 @@
         background-color: rgb(255, 255, 255);
         border-radius: 15px;
         padding:1 px;
+		  border:1px solid black;
       }
 
 .player_one{
 	background-color:white;
 	padding:1px;
 	border-radius:10px;
+	
 }
 .player_two{
 	background-color:white;
